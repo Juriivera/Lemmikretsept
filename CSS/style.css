@@ -1,0 +1,81 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Oswald:wght@500&family=Rubik+Bubbles&family=Whisper&display=swap');
+
+body {
+
+   
+    background-image: url(/img/4.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 2300px ;
+}
+
+h1 {
+    text-align: center;
+   
+    color: rgb(52, 33, 198);
+    font-family: 'Caveat', cursive;
+    font-size: 6rem;
+}
+
+ul {
+
+  margin-left: 630px;
+  color: rgb(189, 8, 47);
+  font-family: 'Whisper', cursive;
+  font-size: 20px;
+ 
+  
+
+
+}
+
+h2 {
+
+    margin-left: 300px;
+    color: rgb(196, 10, 193);
+    margin-top: 50px;
+    font-family: 'Fleur De Leah', cursive;
+    font-size: 40px;
+   
+}
+
+table {
+
+    margin-left: 150px;
+    color: black;
+    border: 2px solid green;
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    
+   
+}
+
+h3 {
+
+    margin-left: 650px;
+    color: green;
+    font-family: 'Rubik Bubbles';
+    font-size: 50px;
+
+}
+
+ol {
+    
+
+    margin-left: 700px;
+    color: rgb(9, 6, 32);
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    
+}
+
+footer {
+
+    margin-left: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
