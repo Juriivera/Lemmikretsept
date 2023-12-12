@@ -9,7 +9,7 @@ body {
     background-image: url(/img/4.jpg);
     background-repeat: no-repeat;
     background-position: top;
-    background-size: 2300px ;
+    background-size: cover ;
 }
 
 h1 {
