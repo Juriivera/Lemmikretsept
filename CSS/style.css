@@ -9,7 +9,7 @@ body {
     background-image: url(../img/4.jpg);
     background-repeat: no-repeat;
     background-position: top;
-    background-size: cover ;
+    background-size: 2300px;
 }
 
 h1 {
@@ -22,7 +22,7 @@ h1 {
 
 ul {
 
-  margin-left: 630px;
+  margin-left: 600px;
   color: rgb(189, 8, 47);
   font-family: 'Whisper', cursive;
   font-size: 20px;
